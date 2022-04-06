@@ -18,4 +18,4 @@ Rating | Description
 Through this project, I aim to get a better understanding of what features contribute to and/or take away from a good user experience of each website, and be able to propose recommended improvements that may refine the user experience. From this process, I want to make note of both what works to create a great user experience and what features can be major flaws, in order to appy these to the creation of my own online learning platform for music production. 
 
 ## Website 1: [SoundGym](https://www.soundgym.co/site/school?ut=school&ut=school)
-![SoundGym Home Page](soundgym.jpg)
+![SoundGym Home Page](./soundgym.jpg)
