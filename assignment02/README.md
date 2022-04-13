@@ -25,7 +25,7 @@ The format of the UT consisted of an introduction, informed consent, background 
 The materials to my UT can be found through these links:<br>
 
 [UT Survey](https://forms.gle/UvpyauP14YEEutuXA)<br>
-[UT Video](
+[UT Video](https://drive.google.com/file/d/1MTqtGvO99j9jEMLiLZIdfbMnmLRk_ugT/view?usp=sharing)
 
 ## Reflection
 Through this pilot UT, I was able to observe that the issues I rated most severely during the heuristic evaluation actually translated into major obstacles that limited the usability of SoundGym. The participant is not someone who falls into the characteristics of the target audience, and is someone I consider to be quite technologically adept. Yet, the tasks of switching learning programs and locating the help center proved to be very challenging, indicating an urgent need for these features to be redesigned. Moreoever, as I mentioned above, I did ask the participant to complete a series of other tasks outside of what I identified from the heuristic evaluation. The partcipant was asked to create an account, complete the initial set-up process, commit to a learning program and watch the first course video, and locate their progress status. From this, I was able to identify even more usability issues with SoundGym, while other tasks confirmed the ease of use of other features. For example, I observed from the set-up process how it can be confusing for users who are not familiar with music terminology, as many of the interest surveys and games involved complex terminology. On the flip side, tasks like finding the progress status were fairly straightforward, confirming my rating of certain issues as merely cosmetic.
