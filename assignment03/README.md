@@ -26,15 +26,17 @@ In the traditional setting, users would do this activity either in a classroom s
 In order to learn how to produce music, users would typically search online for music production courses available near them, or search for online courses that they can take. If the user wishes to take classes in-person, the user would typically need to contact the institution or teacher, schedule lessons/appointments, and physically go to “class”. If the user wishes to watch online courses, the user will search and find the appropriate videos for their interests, and will watch them from the comfort of their own home or office. 
 
 ## Research Methods
-I decided to utilize a combination of two methods: interview and participatory observation. Both the interview and participatory observation were conducted on Zoom, with the participant logging on from the comfort of their own bedroom, which is where they typically are when they are producing music. 
+I decided to utilize a combination of two methods: **interview** and **participatory observation**. Both the interview and participatory observation were conducted on Zoom, with the participant logging on from the comfort of their own bedroom, which is where they typically are when they are producing music. 
 
-During the interview portion, I asked the participant various questions regarding his background in music production, how often he spends working on producing, what his goals and motivations are for producing, what types of resources he used to learn to produce, and any challenges he has encountered when producing. While a script was written for the interview, at times, I did go off-script to ask relevant follow-up questions to encourage the participant to elaborate on certain points. 
+During the **interview** portion, I asked the participant various questions regarding his background in music production, how often he spends working on producing, what his goals and motivations are for producing, what types of resources he used to learn to produce, and any challenges he has encountered when producing. While a script was written for the interview, at times, I did go off-script to ask relevant follow-up questions to encourage the participant to elaborate on certain points. 
 
-For the participatory observation portion of the session, I asked the participant to imagine that they went back in time to when they were still a novice at producing music (since the participant is quite skilled at producing now). Then, I asked the participant to think of and demonstrate an activity that they would do to practice their skills when first learning to produce. After wrapping up that task, I also asked the participant what they would search up on the Internet if they were starting from a level of knowledge where they know nothing about producing music. 
+For the **participatory observation** portion of the session, I asked the participant to imagine that they went back in time to when they were still a novice at producing music (since the participant is quite skilled at producing now). Then, I asked the participant to think of and demonstrate an activity that they would do to practice their skills when first learning to produce. After wrapping up that task, I also asked the participant what they would search up on the Internet if they were starting from a level of knowledge where they know nothing about producing music. 
 
 ## Participatory Research Materials
 ### Links
-* Link to 
+* My initial interview script can be accessed here. 
+* The recording of the interview can be viewed here. 
+* The transcript of the interview can be found here. 
 
 ### Interview Insights
 
