@@ -36,10 +36,24 @@ For the **participatory observation** portion of the session, I asked the partic
 ### Links
 * My initial interview script can be accessed [here](https://docs.google.com/document/d/1Bo389sXaWIug9-Da5KB_xBuf15WXfalzDqV2QjeHzmg/edit?usp=sharing).
 * The recording of the interview can be viewed [here](https://drive.google.com/file/d/1VWKW_XHs6L-GCeAA1444MUjnR6-0_5Mu/view?usp=sharing).
-* The transcript of the interview can be found here. 
+* The transcript of the interview can be found [here](https://docs.google.com/document/d/1s6biABf42Q42q_rH1dXm1LgMWDN3Vc4kPSgvt_webSg/edit?usp=sharing). 
 
 ### Interview Insights
-The following are some notable insights from the interview: 
+The following are some notable insights from the interview:<br>
 
+:one: **The particpant's main resource for learning, both early on and until today, has been YouTube.**
+> "I think my first and still like honestly, the source of learning is through YouTube. Because I remember back then they would have like these like, there'll be people that would be putting up like, oh, how to make like a trance track in like 30 minutes, you know? And so it was just like them just like taking this whole like, filming this whole hour, or like half an hour to have them just like producing and what I would do is just kind of like mimic that and follow it and just kind of like put myself through their process too. And just like copying whatever they're doing." (2:19)
+<br>
+
+:two: **Besides hands-on experience creating music in program, the participant mentioned listening to music as a way of learning about different sounds and creative choices.**
+> "But otherwise, I think it's like, a lot of listening. Just like listening to music and try to figure out and think about like, Oh, how did this musician do that? Like, this sound like I've never heard before or like, kind of paying attention to like certain techniques that they're doing and trying to like, remember what they did. And then going into the, pretty much the program, and trying to copy that, what he did." (4:08)
+<br>
+
+:three: **While there are some economic barriers to learning to produce, the participant emphasized the availability of free resources online**
+> "I think because there's so many resources out there, and I'll tell you this, I feel like a lot producers are also so broke, that they understand that paid is not like The Thing. You know, paid is not like the jam. So I think it's like that's the beauty of it. I think the community like really loves like sharing this information. Honestly in terms of like paid content I think the only thing I'd ever like, really take for would be Masterclass because there is some like people on there that just like oh they share like gems you know." (16:02)
+<br> 
+
+:four: **Ultimately, the participant feels that hands-on experience and experimenting with producing in-program is the most effective way of learning to make music.**
+> "But honestly, the craziest resource, is actually, to not even look at any of that. And like literally like just making it. Like I know that sounds counterintuitive, but it's just like, there's no other like resource other than just experimenting. Like that's the whole thing. I feel like you're gonna learn like what other people do like. But the only way you can learn like what you can do is to open it mess around and just like playing around and not even understanding it because I go into these programs not understanding a thing, but it takes all of that messing around and then I find like, Oh, this is actually like the fastest way to learn it. Surprisingly, without having like a teacher." (17:02)
 
 ## Reflection
