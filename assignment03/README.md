@@ -34,10 +34,12 @@ For the **participatory observation** portion of the session, I asked the partic
 
 ## Participatory Research Materials
 ### Links
-* My initial interview script can be accessed here. 
-* The recording of the interview can be viewed here. 
+* My initial interview script can be accessed [here](https://docs.google.com/document/d/1Bo389sXaWIug9-Da5KB_xBuf15WXfalzDqV2QjeHzmg/edit?usp=sharing).
+* The recording of the interview can be viewed [here](https://drive.google.com/file/d/1VWKW_XHs6L-GCeAA1444MUjnR6-0_5Mu/view?usp=sharing).
 * The transcript of the interview can be found here. 
 
 ### Interview Insights
+The following are some notable insights from the interview: 
+
 
 ## Reflection
