@@ -7,12 +7,12 @@ With UX Storytelling, and personas more specifically, we are able to insert ours
 
 ## Personas & Empathy Maps
 ### Persona 1: Michael Smith
-<img src="persona1.png" alt="drawing" width="900"/>
-<img src="emap1.png" alt="drawing" width="500"/>
+<img src="persona1.jpg" alt="drawing" width="800"/>
+<img src="emap1.jpg" alt="drawing" width="400"/>
 
 ### Persona 2: Peter Nguyen
-<img src="persona2.png" alt="drawing" width="900"/>
-<img src="emap2.png" alt="drawing" width="500"/>
+<img src="persona2.jpg" alt="drawing" width="800"/>
+<img src="emap2.jpg" alt="drawing" width="400"/>
 
 ## Scenarios & Journey Maps
 ### :one: Michael's Scenario & Journey Map
@@ -21,8 +21,8 @@ With UX Storytelling, and personas more specifically, we are able to insert ours
 
 **How is Michael using this product?**
 > That weekend, Michael uses the old desktop computer that he shares with his wife to look up free online programs for learning to produce, and finds a website called SoundGym. Excited at the prospects, Michael creates an account and jumps right into the initial activation activities, where he is evaluated on his listening skills. Michael is immediately hooked in through these engaging activities. After completing them, he selects “Electronic Music Production” as his course topic an is delighted to see that the program is quite detailed and is organized into sub topics, each with an extensive list of free course videos. Michael begins watching the first few videos, and is happy to see that the website tracks his progress, so that he can always find where he left off on. The videos are also not too long, so the information is easy to digest. 
-
-**Michael's Journey Map**
+> 
+<img src="jmap1.jpg" alt="drawing" width="800"/>
 
 ### :two: Peter's Scenario & Journey Map
 **Why is Peter using this product?**
@@ -31,4 +31,4 @@ With UX Storytelling, and personas more specifically, we are able to insert ours
 **How is Peter using this product?**
 > That night, Peter goes online to search for a free online program that he can take to get back into music production. He stumbles across a website called SoundGym, and is surprised to find that it focuses specifically on producing and other related topics such as mixing and engineering -- things that he has never learned. Intrigued, Peter makes an account and goes through the set-up process, where he is taken through several listening evaluation activities. Once he enters into the main page, he selects the “Electronic Music Program” topic. There, he sees that the course begins with extremely basic information about home studio equipment -- things he definitely remembers. Thankfully, he is able to skip those courses and continue onto video courses on topics he is unfamiliar with. Because Peter already has some background knowledge on producing, he appreciates the flexibility and structure of the website and decides to continue taking small courses in his free time to slowly dive back into producing. 
 
-**Peter's Journey Map**
+<img src="jmap2.jpg" alt="drawing" width="800"/>
