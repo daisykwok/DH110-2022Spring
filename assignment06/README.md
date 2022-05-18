@@ -26,8 +26,14 @@ My interface design is based on an iPhone 8 screen. Due to the small size of the
 For the following tests for fonts, shapes, and colors, I used the the screen titled "Home: Learn-Resume", as I felt that that screen contained a lot of content and elements to experiment with.
 
 ### Typography 
-
+<img src="fonts.png" alt="drawing" width="800"/>
+<img src="textStyles.png" alt="drawing" width="200"/>
 
 ### Shape
+<img src="shapesDropdown.png" alt="drawing" width="800"/>
+<img src="shapesButtons.png" alt="drawing" width="800"/>
 
 ### Colors
+<img src="colorPalette.png" alt="drawing" width="800"/>
+<img src="colors.png" alt="drawing" width="800"/>
+<img src="colorStyles.png" alt="drawing" width="200"/>
