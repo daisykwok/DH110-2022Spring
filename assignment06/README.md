@@ -83,7 +83,17 @@ Above is the color palette that I decided to go with, in both light and dark mod
 Below are some insights from an impression test with my interviewee.<br>
 
 **On Type**
+- She liked the Monda font the most
+- When asked why, she explained that it was the font that was easier to read for her 
+- "It looks more sleek in my opinion."
 
 **On Shapes**
+- For the drop down menu, she liked the slightly rounded option because it felt like a happy medium between sharp corners and fully rounded
+- She also liked the drop down menu that mixed sharp and round corners
+- For the progress bar, she preferred the version with rounded edges
+- She also preferred rounded edges for the video thumbnails 
+- "It feels familiar because of the YouTube app logo, so it helps that there's symbol recognition."
 
 **On Color**
+- Overall, she liked the color palette that was used
+- She felt that the combinion of colors was pleasant: the contrast was good and the colors themselves were simultaneously muted/not too bright while also being distinct and noticeable
