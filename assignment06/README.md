@@ -15,3 +15,19 @@ For this interface design, I developed a custom design style for the mobile vers
 
 ## Digitized Workflow
 My digitized workflow can be accessed [here](https://www.figma.com/file/QQxuoj7YEjoPALaa4j4Nup/DH-110%3A-a06-(Low-Fidelity-Prototype)?node-id=0%3A1). 
+
+<img src="digWireflow.png" alt="drawing" width="900"/>
+
+My interface design is based on an iPhone 8 screen. Due to the small size of the screen compared to the amount of information the program aims to provide, I decided on a grid system of 1 column (5px margin, 5px gutter) and 7 rows (0px margin, 10px gutter). 
+
+<img src="gridlines.png" alt="drawing" width="300"/>
+
+## Graphical Interface Design Variations
+For the following tests for fonts, shapes, and colors, I used the the screen titled "Home: Learn-Resume", as I felt that that screen contained a lot of content and elements to experiment with.
+
+### Typography 
+
+
+### Shape
+
+### Colors
