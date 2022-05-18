@@ -1,4 +1,4 @@
-#### Assignment 04: UX Wireframe/Paper Prototype
+#### Assignment 05: UX Wireframe/Paper Prototype
 # Low-Fidelity Prototype
 Daisy Kwok | DH 110 User Experience and Design | Spring 2022
 
