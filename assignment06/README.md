@@ -80,4 +80,10 @@ Above is the color palette that I decided to go with, in both light and dark mod
 <img src="colorStyles.png" alt="drawing" width="200"/>
 
 ## Impression Test
-Below are some insights from my impression test with 
+Below are some insights from an impression test with my interviewee.<br>
+
+**On Type**
+
+**On Shapes**
+
+**On Color**
