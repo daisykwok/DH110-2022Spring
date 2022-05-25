@@ -17,7 +17,7 @@ Based on the personas developed in previous stages, this high fidelity protype s
 - Navigating the help center
 
 ## Wireflow
-Pictured below is my wireflow complete with interface design: 
+Pictured below is my wireflow with interface design: 
 
 <img src="graphicalWireflow.png" alt="drawing" width="900"/>
 
