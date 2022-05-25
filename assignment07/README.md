@@ -19,8 +19,11 @@ Based on the personas developed in previous stages, this high fidelity protype s
 ## Wireflow
 Pictured below is my wireflow complete with interface design: 
 
+<img src="graphicalWireflow.png" alt="drawing" width="900"/>
+
 The Figma file for the wireflow can be accessed [here](https://www.figma.com/file/6snHH9dVo3eBEgYDhCdDGg/DH-110%3A-a07-(High-Fidelity-Prototype---WIREFLOW)?node-id=0%3A1).
 
 ## Interactive Prototype
+The interactive prototype can be accessed [here](https://www.figma.com/proto/ekDJNwRUUppRdcFO94z0Yr/DH-110%3A-a07-(High-Fidelity-Prototype---Interactive-Ver.)?node-id=8%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A8). The Figma file for this prototype can be viewed [here](https://www.figma.com/file/ekDJNwRUUppRdcFO94z0Yr/DH-110%3A-a07-(High-Fidelity-Prototype---Interactive-Ver.)?node-id=0%3A1).
 
 ## Cognitive Walkthrough
