@@ -17,6 +17,8 @@ Based on the personas developed in previous stages, this high fidelity protype s
 - Navigating the help center
 
 ## Wireflow
+Pictured below is my 
+<img src="wireflow.png" alt="drawing" width="900"/>
 
 
 ## Interactive Prototype
