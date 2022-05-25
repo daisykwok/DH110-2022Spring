@@ -18,8 +18,6 @@ Based on the personas developed in previous stages, this high fidelity protype s
 
 ## Wireflow
 Pictured below is my 
-<img src="wireflow.png" alt="drawing" width="900"/>
-
 
 ## Interactive Prototype
 
