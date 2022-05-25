@@ -17,7 +17,9 @@ Based on the personas developed in previous stages, this high fidelity protype s
 - Navigating the help center
 
 ## Wireflow
-Pictured below is my 
+Pictured below is my wireflow complete with interface design: 
+
+The Figma file for the wireflow can be accessed [here](https://www.figma.com/file/6snHH9dVo3eBEgYDhCdDGg/DH-110%3A-a07-(High-Fidelity-Prototype---WIREFLOW)?node-id=0%3A1).
 
 ## Interactive Prototype
 
