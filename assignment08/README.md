@@ -1,36 +1,38 @@
-# Project title
+# Music Production through Web-based Learning: Redesigning SoundGym
 Daisy Kwok | DH 110 User Experience and Design | Spring 2022
 
 ## Introduction
-- Brief information about the project. 
-- What is the project about?
-- The motivation of the project and possible contribution.
+With COVID-19 still having a major influence on many of our lifestyles, some have turned to online platforms to learn new skills to keep boredom at bay. This project focuses on the goal of learning how to produce music, which can be a difficult task considering the hands-on nature of the activity. Yet, many people who are interested in music production have had their start from the comfort of their own bedrooms, even prior to the pandemic. While online resources on producing do exist, particularly on YouTube, this project aims to simplify that process through the use of a free, structured online course to learn how to produce music. I will be focusing on the website SoundGym, which is an online music learning platform that offers free and paid courses on various topics in music production, like recording & audio engineering, electronic music production, mix & mastering, and more. After multiple stages of evaluation of SoundGym, this project ultimately aims to streamline its main function of watching course videos so that users of all ages can easily navigate through it as a mobile app. 
 
-## Clear design statement
-- What is the issue
-- Why do you think it is important to resolve that issue by your project? 
+## Design Statement
+This project's main design challenge is as follows: How might we help users learn to produce music in an easily-understandable way within a comfortable environment?
 
-## Competitor analysis [assignment01 & 02]
-- Summary and link to the heuristics and usability testing of the *existing* product(s)
-- or the *original* website you evaluated
+After multiple stages of evaluation and testing of the SoundGym website, I found that its main function of allowing users to watch course videos was severely hindered by a few shortcomings in its design. The tasks of switching learning programs (aka course topics) and locating the help center were extremely challenging for users to complete, indicating an urgent need for these features to be redesigned. Additionally, users were able to mark off certain course videos as “finished” even if they did not actually watch them. Thus, my project aims to improve on these features to create a smoother, more intuitive learning experience that is conducive to genuine mastery of the skill. Furthermore, it will be reconfigured as a mobile app to make it more convenient for users. 
 
-## User research [contextual inquiry, assignment04]
-- Summary and link to your assignment folder
+## Competitor Analysis: Heuristic Evaluation
+Using Nielson’s Ten Heuristics, I conducted a heuristic evaluation on two websites offering learning experiences on music production: [SoundGym](https://www.soundgym.co/site/school?ut=school&ut=school) and Ableton’s beta version of [Learning Music](https://learningmusic.ableton.com/). These platforms were selected as they were two available products on the market that were well-developed and robust, enabling me to get a better sense of what resources are currently available to users and how they can be improved.
 
-## UX storytelling [persona+scenario, assignment05]
-- Summary and link to your assignment folder
+While these two websites take on slightly different approaches to teaching, with SoundGym offering course videos and Learning Music offering a more unconventional method of learning through interactive elements, I noticed that overall, both platforms fell short in ability to offer an intuitive, easy to understand experience. In my initial exploration of the websites, I sometimes felt confused about what a certain feature was supposed to be about due to lack of knowledge on producing terminology, as well as how much time to expect to spend on a certain task. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment01) 
 
-## Wireframe and graphic design element variation [assignment06 + part of 07]
+## Competitor Analysis: Usability Testing
+Upon completing the heuristic evaluations, I conducted a usability test (UT) on SoundGym to evaluate the extent to which the issues I identified previously would impact a user’s ability to carry out the website’s main features. UT is a great method of gathering user feedback on whether or not an interface is easy to use, as it enables us to witness firsthand how a user interacts with the product. For this UT, the user was tasked to (1) quit the current learning program and switch to a new one, (2) locate the help center to find information about billing, and (3) skip course videos to watch a specific one.  [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment02) 
 
-## Low-fidelity prototype (wireflow, assignment06)
-- Summary and link to the sketches
-- may contains the multiple versions and evaluation history
+## User Research
+To understand my users better, I used a combination of two user research methods: interview and participatory observation. Both methods were conducted via Zoom, with my interviewee being a male in his late twenties who has been producing music for several years, with works published on both SoundCloud and Spotify. During the participatory observation section of my research, I asked my interviewee to complete two tasks: (1) demonstrate an activity that they would do to practice their skills when first learning to produce and (2) demonstrate what they would search up on the Internet if they were starting from a level of knowledge where they know nothing about producing. The most notable takeaways I found from this were that the interviewee identified YouTube as the most helpful free resource, emphasized listening to music constantly as a way of learning about different creative choices, and stressed the importance of hands-on experience in-program as the most effective way of learning to make music. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment03)
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
-- Summary statement and link to or an embedded prototype
+## UX Storytelling
+With UX Storytelling, and personas more specifically, we are able to insert ourselves into the perspective of the user to better understand their needs, wants, and goals. By stepping into the worldview and lifestyle of the user, we can begin to shed ourselves of our own biases and ways of thinking, and instead approach scenarios the way our users would. Based on my user research, I developed two personas who come from different backgrounds and have varying levels of knowledge on music production, and thus have different needs. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment04)
 
-## Optional evaluation and revision history 
-- Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+## Wireframe and Graphic Design Element Variation
+Taking into consideration the personas created above, I decided to focus on streamlining the following tasks to make it easier for users to complete them quickly: watching course videos, skipping course videos that users deem unnecessary, switching between learning programs, and navigating the help center. With these main features in mind, I created an initial wireframe and tested out several graphic design elements. Note that this is configured for mobile users and was created after the first wireflow below, which was designed as a desktop website. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment06)
+
+## Low-fidelity Prototype
+I sketched out a low-fidelity prototype on GoodNotes that implemented the features from above. Through this prototype, the flow of the features were outlined to show how the user would potentially navigate through them. At this stage of my project, I was still anticipating to redesign SoundGym as a website, so the wireflow reflects that. After the low-fidelity prototype was complete, I received feedback from a participant regarding the flow of the site and its ease of use. While the participant was able to complete all the tasks, some continued to take longer than necessary to execute, which inspired me to revamp the design of the wireflow completely and reconfigure it as a mobile app. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment05)
+
+## High-fidelity Prototype 
+Building off of the low-fidelity prototype and experiments with various graphic design elements, I developed a high-fidelity prototype on Figma. The purpose of this high-fidelity prototype is to test out the functionality of the revised app's graphical design interface, testing it by a user hands-on so that I can evaluate whether or not the specified project tasks can be executed and done according to the intended flow.
+The interactive prototype can be accessed [here](https://www.figma.com/proto/ekDJNwRUUppRdcFO94z0Yr/DH-110%3A-a07-(High-Fidelity-Prototype---Interactive-Ver.)?node-id=8%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A8). 
+To test out this prototype, I conducted a total of three cognitive walkthroughs, two with my classmates while the prototype was not yet fully complete, and one with my roommate once it was complete. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment07)
 
 ## Pitch video 
 
