@@ -1,3 +1,6 @@
+# Redesigning SoundGym
+Daisy Kwok | DH 110 User Experience and Design | Spring 2022
+
 ## Introduction
 With COVID-19 still having a major influence on many of our lifestyles, some have turned to online platforms to learn new skills to keep boredom at bay. This project focuses on the goal of learning how to produce music, which can be a difficult task considering the hands-on nature of the activity. Yet, many people who are interested in music production have had their start from the comfort of their own bedrooms, even prior to the pandemic. While online resources on producing do exist, particularly on YouTube, this project aims to simplify that process through the use of a free, structured online course to learn how to produce music. I will be focusing on the website SoundGym, which is an online music learning platform that offers free and paid courses on various topics in music production, like recording & audio engineering, electronic music production, mix & mastering, and more. After multiple stages of evaluation of SoundGym, this project ultimately aims to streamline its main function of watching course videos so that users of all ages can easily navigate through it as a mobile app. 
 
