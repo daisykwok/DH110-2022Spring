@@ -14,6 +14,13 @@ Using Nielson’s Ten Heuristics, I conducted a heuristic evaluation on two webs
 
 While these two websites take on slightly different approaches to teaching, with SoundGym offering course videos and Learning Music offering a more unconventional method of learning through interactive elements, I noticed that overall, both platforms fell short in ability to offer an intuitive, easy to understand experience. In my initial exploration of the websites, I sometimes felt confused about what a certain feature was supposed to be about due to lack of knowledge on producing terminology, as well as how much time to expect to spend on a certain task. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment01) 
 
+<table>
+<tr>
+<td> <img src="https://github.com/daisykwok/DH110-2022Spring/blob/main/assignment01/soundgym.jpg?raw=true" alt="drawing" width="800"/> </td>
+<td> <img src="https://github.com/daisykwok/DH110-2022Spring/blob/main/assignment01/learningmusic.jpg?raw=true" alt="drawing" width="800"/> </td>
+</tr>
+</table>
+
 ## Competitor Analysis: Usability Testing
 Upon completing the heuristic evaluations, I conducted a usability test (UT) on SoundGym to evaluate the extent to which the issues I identified previously would impact a user’s ability to carry out the website’s main features. UT is a great method of gathering user feedback on whether or not an interface is easy to use, as it enables us to witness firsthand how a user interacts with the product. For this UT, the user was tasked to (1) quit the current learning program and switch to a new one, (2) locate the help center to find information about billing, and (3) skip course videos to watch a specific one.  [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment02) 
 
@@ -23,8 +30,17 @@ To understand my users better, I used a combination of two user research methods
 ## UX Storytelling
 With UX Storytelling, and personas more specifically, we are able to insert ourselves into the perspective of the user to better understand their needs, wants, and goals. By stepping into the worldview and lifestyle of the user, we can begin to shed ourselves of our own biases and ways of thinking, and instead approach scenarios the way our users would. Based on my user research, I developed two personas who come from different backgrounds and have varying levels of knowledge on music production, and thus have different needs. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment04)
 
+<table>
+<tr>
+<td> <img src="https://github.com/daisykwok/DH110-2022Spring/blob/main/assignment04/persona1.jpg?raw=true" alt="drawing" width="800"/> </td>
+<td> <img src="https://github.com/daisykwok/DH110-2022Spring/blob/main/assignment04/emap1.jpg?raw=true" alt="drawing" width="350"/> </td>
+</tr>
+</table>
+
 ## Wireframe and Graphic Design Element Variation
 Taking into consideration the personas created above, I decided to focus on streamlining the following tasks to make it easier for users to complete them quickly: watching course videos, skipping course videos that users deem unnecessary, switching between learning programs, and navigating the help center. With these main features in mind, I created an initial wireframe and tested out several graphic design elements. Note that this is configured for mobile users and was created after the first wireflow below, which was designed as a desktop website. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment06)
+
+<img src="https://github.com/daisykwok/DH110-2022Spring/raw/main/assignment05/wireflow.jpg" alt="drawing" width="700"/>
 
 ## Low-fidelity Prototype
 I sketched out a low-fidelity prototype on GoodNotes that implemented the features from above. Through this prototype, the flow of the features were outlined to show how the user would potentially navigate through them. At this stage of my project, I was still anticipating to redesign SoundGym as a website, so the wireflow reflects that. After the low-fidelity prototype was complete, I received feedback from a participant regarding the flow of the site and its ease of use. While the participant was able to complete all the tasks, some continued to take longer than necessary to execute, which inspired me to revamp the design of the wireflow completely and reconfigure it as a mobile app. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment05)
@@ -33,6 +49,8 @@ I sketched out a low-fidelity prototype on GoodNotes that implemented the featur
 Building off of the low-fidelity prototype and experiments with various graphic design elements, I developed a high-fidelity prototype on Figma. The purpose of this high-fidelity prototype is to test out the functionality of the revised app's graphical design interface, testing it by a user hands-on so that I can evaluate whether or not the specified project tasks can be executed and done according to the intended flow.
 The interactive prototype can be accessed [here](https://www.figma.com/proto/ekDJNwRUUppRdcFO94z0Yr/DH-110%3A-a07-(High-Fidelity-Prototype---Interactive-Ver.)?node-id=8%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A8). 
 To test out this prototype, I conducted a total of three cognitive walkthroughs, two with my classmates while the prototype was not yet fully complete, and one with my roommate once it was complete. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment07)
+
+<img src="https://github.com/daisykwok/DH110-2022Spring/raw/main/assignment06/finalDesign.png" alt="drawing" width="700"/>
 
 ## Pitch video 
 
