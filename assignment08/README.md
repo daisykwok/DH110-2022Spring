@@ -60,9 +60,7 @@ To test out this prototype, I conducted a total of three cognitive walkthroughs,
 
 ## Pitch Video
 
-<p align = "center"> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CIXw_1xvPEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+My project pitch video can be viewed [here](https://youtu.be/CIXw_1xvPEU).
 
 ## Conclusion
 Overall, I feel that I was able to address my main concerns with SoundGym’s website, specifically the issues of switching learning programs, making the help center more accessible, and ensuring that courses must be watched in their entirety before users can mark them as complete. 
