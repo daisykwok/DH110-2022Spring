@@ -1,1 +1,1 @@
-Daisy Kwok | DH 110 User Experience and Design | Spring 2022
+A project for DH 110: User Interface and Design at UCLA
