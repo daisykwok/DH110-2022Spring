@@ -48,11 +48,21 @@ I sketched out a low-fidelity prototype on GoodNotes that implemented the featur
 ## High-fidelity Prototype 
 Building off of the low-fidelity prototype and experiments with various graphic design elements, I developed a high-fidelity prototype on Figma. The purpose of this high-fidelity prototype is to test out the functionality of the revised app's graphical design interface, testing it by a user hands-on so that I can evaluate whether or not the specified project tasks can be executed and done according to the intended flow.
 The interactive prototype can be accessed [here](https://www.figma.com/proto/ekDJNwRUUppRdcFO94z0Yr/DH-110%3A-a07-(High-Fidelity-Prototype---Interactive-Ver.)?node-id=8%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A8). 
+
 To test out this prototype, I conducted a total of three cognitive walkthroughs, two with my classmates while the prototype was not yet fully complete, and one with my roommate once it was complete. [Read more…](https://github.com/daisykwok/DH110-2022Spring/tree/main/assignment07)
 
-<img src="https://github.com/daisykwok/DH110-2022Spring/raw/main/assignment06/finalDesign.png" alt="drawing" width="700"/>
-
-## Pitch video 
+<table>
+<tr>
+<td> <img src="https://github.com/daisykwok/DH110-2022Spring/raw/main/assignment06/finalDesign.png" alt="drawing" width="700"/> </td>
+<td> <img src="https://github.com/daisykwok/DH110-2022Spring/raw/main/assignment07/graphicalWireflow.png" alt="drawing" width="800"/> </td>
+</tr>
+</table>
 
 ## Conclusion
-- what did you learn throughout the process?
+Overall, I feel that I was able to address my main concerns with SoundGym’s website, specifically the issues of switching learning programs, making the help center more accessible, and ensuring that courses must be watched in their entirety before users can mark them as complete. 
+
+From this process, I learned about how important user feedback is, and that more often than not, people in real life may not interact with your designs in the way you intended or expected them to. One thing I really struggled with initially was trying to redesign SoundGym in a way that was actually unique and refreshing. At first, when I was making my first wireframe and wireflow, I unconsciously stuck very closely to the original design and layout of the website, incorporating small adjustment that I thought would work. This proved to be false, as the participant who tested the wireflow was still a bit confused. For this project, taking the website into a mobile version helped force me to reimagine the platform more creatively, and to think through how I would like certain features to be designed if I were a fellow user.
+
+Because I spent more time than expected rethinking how to design SoundGym, I was unable to flesh out some of its other features, such as the “Train”, “Profile”, and “Forum” tabs on the menu bar. In the future, I definitely would have wanted to develop these other features further. Due to time constraints, I also was not able to conduct as many cognitive walkthroughs of my high-fidelity prototype as I would have liked, and those that did participate did not have any major feedback to work with. Additionally, another thing I wish I had done differently was to be more careful with the wireframing stage of the project. I felt that I sometimes connected the wireframes too quickly and would later realize I needed to add additional pages, so that also slowed me down quite a bit. 
+
+In spite of these shortcomings, I am still quite satisfied with how my redesign of SoundGym turned out, and I think it does accomplish my intention of streamlining it to make easier to use and understand. 
